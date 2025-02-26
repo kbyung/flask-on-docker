@@ -1,8 +1,7 @@
 # flask-on-docker
 
+## Overview
 A containerized web-app built using the Instagram tech stack: `postgresql` database, `gunicorn`+`Flask` webserver, and `nginx` for load balancer. This repo contains a production-ready Docker Compose file to handle the uploading of static and media files. 
-
-## Upload Functionality
 
 The GIF below showcases the upload functionality of the web-app. 
 
