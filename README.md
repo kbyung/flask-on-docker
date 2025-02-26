@@ -6,6 +6,8 @@ A containerized web-app built using the Instagram tech stack: `postgresql` datab
 
 The GIF below showcases the upload functionality of the web-app. 
 
+ <img width=100% src=file-upload.gif/>
+
 ## Build Instructions
 
 ### Development
